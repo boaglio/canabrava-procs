@@ -1,4 +1,4 @@
-GATLING_BIN_DIR=$HOME/gatling/bin
+GATLING_BIN_DIR=$HOME/Downloads/gatling-3.10.3/bin/
 WORKSPACE=$PWD/stress-test
 
 runGatling() {
